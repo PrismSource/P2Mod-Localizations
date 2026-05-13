@@ -2,6 +2,9 @@
 
 A repository for localizations of Portal 2 mods, such as Divinity, Revolution, etc.
 
+[![MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/PrismSource/P2Mod-Localizations/blob/main/LICENSE)
+![Status](https://img.shields.io/badge/status-active-success)
+
 # Contributing
 
 Any mod is welcome, including Google Translate-based editions. Scripts that improve the workflow are also welcome.
